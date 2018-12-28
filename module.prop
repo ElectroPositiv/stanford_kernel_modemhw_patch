@@ -1,0 +1,7 @@
+id=stanford_kernel_modemhw_patch
+name=Honor 9 Custom Kernel Support Patch
+version=v1
+versionCode=1
+author=insp12@xda-developers
+description=Patch for STF-L09 devices to get custom kernels working on new EMUI based-version
+minMagisk=18000
