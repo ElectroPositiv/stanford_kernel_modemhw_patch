@@ -28,6 +28,8 @@ A user has reported that the module should be installed "from the root Magisk op
  - If the module doesn't work, don't hesitate to [pm me on xda](https://forum.xda-developers.com/member.php?u=9197165)! I'll help you as much as I can ;)
  - Have you found an improvement? Don't hesitate to do a pull request to this repo!
 
+> **About my personnal experience..** Basically, I'm on Pie phh-based GSI (not OpenKirin) using Proto8 kernel with this module (obviously..) and LKT as governor. All of this stuff is based on EMUI' B377 (with November security vendor patch) on a C432 firmware. No particular problem occurs, except rom-side ones.
+
 
 ## Licensing
 
@@ -43,7 +45,7 @@ Huge thanks to :
  - [catuva21](https://github.com/catuva21) from the basis module he made to hi6250 devices on his xda thread
 
 
--- 
+--- 
 
 
 "EMUI" and any associated marks are registered trademarks owned by Huawei Technologies Co. Ltd.
